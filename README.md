@@ -29,7 +29,8 @@
 
 
 # Sub-Ghz #
-
+ Using a CC1101 v2.00, you could open garage doors up to 900 meters away. It has a transmitting power of 10dBm and has interchangable attenas with an SMA connection.
+ 
  - Jammer
  - Replay Attack
  - Traffic Recorder ( RAW )
@@ -43,6 +44,7 @@
 
 
 # Infared #
+For transmitting the Flipper Pod uses 3x Infrared LED TSAL6400 and a TSOP4838 as the receiver, but don't forget a 2N4401 transistor.
  - Learn IR signal 
  - Send IR signal ( Signals found in folders in subfolders etc ) 
  - Update IR signal database
