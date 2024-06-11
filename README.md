@@ -1,5 +1,5 @@
-# Flipper-Pod
- The flipper Pod is a handsized device capable of Wifi, Bluetooth, Sub-Ghz, Infared and 13.56Mhz RFID. The RFID feature is detachable to save space unless needed. For around $40 you can create a device which competes with the Flipper zero.
+# NanoPwn #
+ The NanoPwn is a handsized device capable of Wifi, Bluetooth, Sub-Ghz, Infared and 13.56Mhz RFID. The RFID feature is detachable to save space unless needed. For around $40 you can create a device which competes with the Flipper zero.
 
  Features: 
 
@@ -46,7 +46,7 @@ Bluetooth is powered by the same powerfull ESP32-S3R8, the chip features BLE, Bl
 
 
 # Infared #
-For transmitting the Flipper Pod uses 3x Infrared LED TSAL6400 and a TSOP4838 as the receiver, but don't forget a 2N4401 transistor.
+For transmitting IR the NanoPwn uses 3x Infrared LED TSAL6400 and a TSOP4838 as the receiver, but don't forget a 2N4401 transistor.
 
  - Learn IR signal 
  - Send IR signal ( Signals found in folders in subfolders etc ) 
